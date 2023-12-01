@@ -14,12 +14,11 @@ module.exports = {
 
 
     },
-    baground: {
-
+    backgroundColor: {
       primarybutton: '#111B47',
-
-
+      primarybackground: '#E7ECFF',
     },
+
   },
   plugins: [],
 }
